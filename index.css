@@ -1,0 +1,86 @@
+
+img{
+    width: 25px;
+}
+main{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:800px;
+}
+div{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 85%;
+    
+}
+section{
+    text-align: center;
+    background-color: aqua;
+    height: 180px;
+}
+h1{
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+input{
+    width: 500px;
+    height: 30px;
+    /* border-radius: 13px;
+    box-shadow: 2px 3px 10px; */
+    border: none;
+    padding-left: 30px;
+    outline: none;
+}
+img{
+    width: 17px;
+    margin-top: 13px;
+}
+fieldset{
+    border-radius: 20px;
+    box-shadow: 2px 3px 14px;
+    background-color: white;
+    width: 600px;
+    outline: none;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* /* .one{
+    color: rgb(138, 154, 241);
+}
+.two{
+color: rgb(231, 47, 47);
+}
+.three{
+color: rgb(243, 243, 30);
+}
+.four{
+color:rgb(3, 179, 3) ;
+}
+.flexdiv{
+    background-color:rgb(159, 90, 233) ;
+    width: 400px;
+    display: flex;
+}
+p{
+    width: 15%;
+    height: 15%;
+}
+.first{
+    background-color: orange;
+}
+.second{
+    background-color: orangered;
+}
+.third{
+    background-color: tan;
+}
+.fourth{
+    background-color: aqua;
+}
+.fifth{
+    background-color: rgb(234, 12, 12);
+
+    /* background-image:url(images/3434\ copy.jpg);
+background-size: cover; */
